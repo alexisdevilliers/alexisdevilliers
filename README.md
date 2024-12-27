@@ -20,7 +20,7 @@ I'm a passionate developer with a love for creating innovative solutions and con
 
 ## 🔗 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexisdevilliers1999@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexisdevilliers1999@gmail.com)
 
 ## 📊 GitHub Stats
 
