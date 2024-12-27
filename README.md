@@ -18,6 +18,10 @@ I'm a passionate developer with a love for creating innovative solutions and con
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+## 🔗 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexisdevilliers1999@gmail.com)
+
 ## 📊 GitHub Stats
 
 ![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexisdevilliers&show_icons=true&theme=radical)
